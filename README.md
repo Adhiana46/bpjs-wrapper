@@ -11,10 +11,11 @@ https://dvlp.bpjs-kesehatan.go.id:8888/trust-mark/portal.html
 
 #### Supported Services:
 
-- [x] Referensi
-- [x] Peserta
-- [x] SEP
-- [x] Rujukan
-- [x] Lembar Pengajuan Klaim
+- [x] LPK (Lembar Pengajuan Klaim)
 - [x] Monitoring
-- [x] Aplicare
+- [x] Peserta
+- [x] PRB (Pembuatan Rujukan Balik)
+- [x] Referensi
+- [x] Rencana Kontrol
+- [x] Rujukan
+- [x] SEP
