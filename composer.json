@@ -3,7 +3,6 @@
     "description": "PHP package to access BPJS Kesehatan API. This is a wrapper for BPJS Kesehatan API https://dvlp.bpjs-kesehatan.go.id:8888/trust-mark/portal.html",
     "type": "package",
     "require": {
-        "php": ">=7.4",
         "guzzlehttp/guzzle": "~6.0",
         "nullpunkt/lz-string-php": "^1.3"
     },
