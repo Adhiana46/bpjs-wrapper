@@ -1,0 +1,25 @@
+{
+    "name": "adhiana46/bpjs",
+    "description": "PHP package to access BPJS Kesehatan API. This is a wrapper for BPJS Kesehatan API https://dvlp.bpjs-kesehatan.go.id:8888/trust-mark/portal.html",
+    "type": "package",
+    "require": {
+        "guzzlehttp/guzzle": "~6.0",
+        "nullpunkt/lz-string-php": "^1.3"
+    },
+    "require-dev": {
+        "vlucas/phpdotenv": "5.4.x-dev"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Adhiana Mastur",
+            "email": "adhianamastur48@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Adhiana46\\Bpjs\\": "src/"
+        }
+    }
+}
