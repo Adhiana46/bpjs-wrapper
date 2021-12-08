@@ -29,4 +29,11 @@ class Peserta extends BpjsService
 
         return $response;
     }
+
+    public function getByNik($nik, $tglPelayananSep)
+    {
+        $response = $this->get("Peserta/nik/$nik/tglSEP/$tglPelayananSep");
+
+        return $response;
+    }
 }
